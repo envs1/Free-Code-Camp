@@ -1,7 +1,8 @@
 
-// Example
-var ourName;
-var myName;
+// Setup
+var a;
+var b = 2;
 
-// Define myName below this line
-
+// Only change code below this line
+var a=7;
+var b=a;
