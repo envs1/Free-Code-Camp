@@ -12,6 +12,10 @@ var motorBike = {
   "engines":5,
   "seats":2,
 
-  //change code
+var house ={
+  "kitchen":1,
+  "bedrooms":4,
+  "bathrooms":2,
+};
 
 };
