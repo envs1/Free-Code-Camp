@@ -8,3 +8,4 @@ function reverseString(str) {
 }
 
 reverseString("hello");
+var x;
