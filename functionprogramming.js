@@ -1,7 +1,7 @@
 //Declare Objects as variables
 
 
-var car = {
+var vehicle = {
   "wheels":4,
   "engines":1,
   "seats":5
