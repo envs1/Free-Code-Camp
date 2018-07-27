@@ -1,7 +1,7 @@
 
 // Example
 var ourName;
-var myName;
+var myNames;
 
 // Define myName below this line
 
